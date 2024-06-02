@@ -8,8 +8,8 @@ public class Bedroom  extends Room {
     private Double Thermostat;
     private String Speaker;
 
+    private int age;
 
-    int age;
 
 
 
